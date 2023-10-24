@@ -1,5 +1,5 @@
 
-![logo](kire)
+![logo](https://github.com/md-mostafiz181/md-mostafiz181/blob/main/Mostafizur%20Rahman.png)
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
